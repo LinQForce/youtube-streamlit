@@ -2,6 +2,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 from PIL import Image
+from pandas.core.frame import DataFrame
 import time
 
 st.title('Streamlit and Python')

@@ -1,3 +1,4 @@
+from pandas.core.frame import DataFrame
 import streamlit as st
 import numpy as np
 import pandas as pd
