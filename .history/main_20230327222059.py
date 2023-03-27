@@ -6,7 +6,7 @@ import time
 
 st.title('Streamlit and Python')
 
-st.write('フレマアップワークス　ライセンス')
+st.write('フレマアップワークス　ライセ')
 
 
 
