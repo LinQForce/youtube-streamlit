@@ -5,7 +5,7 @@ import pandas as pd
 from PIL import Image
 import time
 
-st.title('Streamlit and　Python')
+st.title('Streamlit 　Python')
 
 st.write('フレマアップワークス　ライセスン')
 
